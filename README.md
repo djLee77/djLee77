@@ -1,7 +1,14 @@
+![header](https://capsule-render.vercel.app/api?type=slice&text=HI_THERE_NICE_TO_MEET_U&fontSize=20&fontColor=FFFFFF&fontAlign=83&fontAlignY=70&height=57&color=0:78785a,100:262626&animation=fadeIn)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djLee77&show_icons=true&theme=apprentice)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=apprentice)
+<div class='container'>
+<img style="height: auto; width: 37%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djLee77&theme=apprentice&langs_count=8&layout=compact" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api?username=djLee77&show_icons=true&theme=apprentice" />
+
+</div>
+
 
 <!--
 **djLee77/djLee77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
