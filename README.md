@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=slice&text=HI_THERE_NICE_TO_MEET_U&fontSize=20&fontColor=FFFFFF&fontAlign=83&fontAlignY=70&height=57&color=0:78785a,100:262626&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&text=HI_THERE_NICE_TO_MEET_U&fontSize=20&fontColor=FFFFFF&fontAlign=83&fontAlignY=70&height=57&color=0:78785a,100:262626&animation=fadeIn)
 
 
 <div class='container'>
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djLee77&theme=apprentice&langs_count=8&layout=compact" />
+<img style="height: auto; width: 38%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djLee77&theme=apprentice&langs_count=8&layout=compact" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 57%;" class="img" src="https://github-readme-stats.vercel.app/api?username=djLee77&show_icons=true&theme=apprentice" />
+<img style="height: auto; width: 58%;" class="img" src="https://github-readme-stats.vercel.app/api?username=djLee77&show_icons=true&theme=apprentice" />
 
 </div>
 
