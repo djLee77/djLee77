@@ -1,9 +1,9 @@
+### 👋 Hi there, it's so nice to meet you
 <div class='container' style="float: center">
-<img style="height: auto; width: 38%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djLee77&theme=graywhite&langs_count=8&layout=compact" />
-&nbsp;
-&nbsp;
 <img style="height: auto; width: 58%;" class="img" src="https://github-readme-stats.vercel.app/api?username=djLee77&show_icons=true&theme=graywhite" />
-
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 38%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djLee77&theme=graywhite&langs_count=8&layout=compact" />
 </div>
 
 
