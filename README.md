@@ -5,7 +5,7 @@
 <img style="height: auto; width: 37%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djLee77&theme=apprentice&langs_count=8&layout=compact" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 62%;" class="img" src="https://github-readme-stats.vercel.app/api?username=djLee77&show_icons=true&theme=apprentice" />
+<img style="height: auto; width: 58%;" class="img" src="https://github-readme-stats.vercel.app/api?username=djLee77&show_icons=true&theme=apprentice" />
 
 </div>
 
