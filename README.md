@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&text=HI_THERE_NICE_TO_MEET_U&fontSize=20&fontColor=FFFFFF&fontAlign=83&fontAlignY=70&height=57&color=0:78785a,100:262626&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&text=HI_THERE_NICE_TO_MEET_U&fontSize=20&fontColor=FFFFFF&fontAlign=83&fontAlignY=70&height=57&width=96%&color=0:78785a,100:262626&animation=fadeIn)
 
 
 <div class='container'>
