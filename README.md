@@ -1,7 +1,7 @@
 ### 👋 Hi there, it's so nice to meet you
 
 - 🌱 I’m currently learning javascript
-- 📫 How to reach me: Gmail - `dkdnl232@gmail.com`
+- 📫 How to reach me: `dkdnl232@gmail.com`
 
 <div class='container' style="float: center">
 <img style="height: auto; width: 58%;" class="img" src="https://github-readme-stats.vercel.app/api?username=djLee77&show_icons=true&theme=graywhite" />
