@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&text=HI_THERE_NICE_TO_MEET_U&fontSize=20&fontColor=FFFFFF&fontAlign=83&fontAlignY=70&height=57&width=96%&color=0:78785a,100:262626&animation=fadeIn)
 
 
-<div class='container'>
+<div class='container' style="float: center">
 <img style="height: auto; width: 38%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djLee77&theme=apprentice&langs_count=8&layout=compact" />
 &nbsp;
 &nbsp;
