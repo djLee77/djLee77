@@ -1,6 +1,8 @@
 ### 👋 Hi there, it's so nice to meet you
 
 - 🌱 I’m currently learning javascript
+- ✏ Blog address: https://dnd0707.tistory.com/
+- ✨ Solved.ac address: https://solved.ac/profile/eowns1111
 - 📫 How to reach me: `dkdnl232@gmail.com`
 
 <div class='container' style="float: center">
