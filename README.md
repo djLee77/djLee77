@@ -4,7 +4,7 @@
 - 📫 How to reach me: `dkdnl232@gmail.com`
 
 <div class='container' style="float: center">
-<img style="height: auto; width: 58%;" class="img" src="https://github-readme-stats.vercel.app/api?username=djLee77&show_icons=true&theme=flag-india" />
+<img style="height: auto; width: 58%;" class="img" src="https://github-readme-stats.vercel.app/api?username=djLee77&show_icons=true&theme=graywhite" />
 <img style="height: auto; width: 38%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djLee77&theme=swift&langs_count=8&layout=compact" />
 </div>  
 
