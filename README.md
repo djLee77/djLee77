@@ -8,6 +8,8 @@
 <img style="height: auto; width: 38%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djLee77&theme=swift&langs_count=8&layout=compact" />
 </div>  
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=djLee77&bg_color=f6f8fa&line=d0d7de&color=1f2328)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--
 **djLee77/djLee77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
