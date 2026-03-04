@@ -1,10 +1,5 @@
 ### 👋 Hi there, it's so nice to meet you
 
-<div class='container' style="float: center">
-<img style="height: auto; width: 58%;" class="img" src="https://github-readme-stats.vercel.app/api?username=djLee77&show_icons=true&theme=graywhite" />
-<img style="height: auto; width: 38%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djLee77&theme=swift&langs_count=8&layout=compact" />
-</div>  
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=djLee77&area_color=474b4f&area=true&bg_color=ffffff&line=dd4526&color=1f2328&point=474b4f&custom_title=___________________________________________________________________________________________________________🚣_______________________)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
